@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zaidkhan_portfolio/static/css/main.d1b05096.chunk.css",
+    "main.js": "/zaidkhan_portfolio/static/js/main.0ee7bf93.chunk.js",
+    "main.js.map": "/zaidkhan_portfolio/static/js/main.0ee7bf93.chunk.js.map",
+    "runtime-main.js": "/zaidkhan_portfolio/static/js/runtime-main.2792c41b.js",
+    "runtime-main.js.map": "/zaidkhan_portfolio/static/js/runtime-main.2792c41b.js.map",
+    "static/js/2.b4cbc682.chunk.js": "/zaidkhan_portfolio/static/js/2.b4cbc682.chunk.js",
+    "static/js/2.b4cbc682.chunk.js.map": "/zaidkhan_portfolio/static/js/2.b4cbc682.chunk.js.map",
+    "index.html": "/zaidkhan_portfolio/index.html",
+    "precache-manifest.f312f93f31a2f010423d3c4ac62c5738.js": "/zaidkhan_portfolio/precache-manifest.f312f93f31a2f010423d3c4ac62c5738.js",
+    "service-worker.js": "/zaidkhan_portfolio/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/zaidkhan_portfolio/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.b4cbc682.chunk.js.LICENSE": "/zaidkhan_portfolio/static/js/2.b4cbc682.chunk.js.LICENSE",
+    "static/media/logo.svg": "/zaidkhan_portfolio/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2792c41b.js",
+    "static/js/2.b4cbc682.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.0ee7bf93.chunk.js"
+  ]
+}
