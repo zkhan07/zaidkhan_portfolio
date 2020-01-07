@@ -1,8 +1,7 @@
 import React from "react";
-import "./Style.css";
 
 
-const Portfolio = () => {
+const Page1 = () => {
     return(
         <div style={{ backgroundColor: "#fff"}}>
 
@@ -301,4 +300,4 @@ const Portfolio = () => {
     );
 }
 
-export default Portfolio;
+export default Page1;
