@@ -21,7 +21,16 @@ function App() {
         </a>
       </header>
 
+    
+
       <Page1 />
+
+      <br/><br/>
+      <a href="/home">
+      <button className="ui red button">Next Page</button>
+      </a>
+      <br/><br/>
+      
     </div>
   );
 }
