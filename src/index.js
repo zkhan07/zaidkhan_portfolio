@@ -9,6 +9,7 @@ import DashContact from "./components/DashContact";
 import DashMycv from "./components/DashMycv";
 import DashTechtalks from "./components/DashTechtalks";
 import DashBlog from "./components/DashBlog";
+import "./Style.css";
 
 
 ReactDOM.render(
