@@ -22,6 +22,8 @@ import Container from '@material-ui/core/Container';
 import { Link } from "react-router-dom";
 import Card from "./Card";
 
+import "./Style.css";
+
 const drawerWidth = 240;
 
 const useStyles = makeStyles(theme => ({
