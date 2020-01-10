@@ -18,7 +18,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    color: white;
+    color: black;
     font-size: 50px;
     padding: 12px 12px;
     border: none;
@@ -31,7 +31,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    color: white;
+    color: black;
     font-size: 30px;
     padding: 12px 12px;
     border: none;
@@ -44,7 +44,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    color: white;
+    color: black;
     font-size: 20px;
     padding: 12px 12px;
     border: none;
@@ -181,7 +181,7 @@ a:hover {
         left: 50%;
         transform: translate(-50%, -50%);
         -ms-transform: translate(-50%, -50%);
-        color: white;
+        color: black;
         font-size: 23px;
         padding: 12px 12px;
         border: none;
@@ -195,7 +195,7 @@ a:hover {
         left: 50%;
         transform: translate(-50%, -50%);
         -ms-transform: translate(-50%, -50%);
-        color: white;
+        color: black;
         font-size: 14px;
         text-align: justify;
         word-spacing: 2px;
@@ -208,7 +208,7 @@ a:hover {
         left: 50%;
         transform: translate(-50%, -50%);
         -ms-transform: translate(-50%, -50%);
-        color: white;
+        color: black;
         font-size: 13px;
         padding: 12px 12px;
         border: none;
