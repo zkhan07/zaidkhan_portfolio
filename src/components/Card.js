@@ -4,11 +4,11 @@ import "./Style.css";
 
 const Card = () => {
     return(
-        <div className="cardcon">
+        <div>
 
 
           
-            <div className="ui fluid container">
+            <div className="ui fluid container cardcon">
                 {/* <div className="ui small circular  image">
                     <img className="img1" src="cv.jpg" />
                 </div> */}
