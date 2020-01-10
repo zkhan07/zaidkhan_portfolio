@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/zaidkhan_portfolio/static/css/main.a7c24e8a.chunk.css",
+    "main.css": "/zaidkhan_portfolio/static/css/main.58ceae8f.chunk.css",
     "main.js": "/zaidkhan_portfolio/static/js/main.adf6359b.chunk.js",
     "main.js.map": "/zaidkhan_portfolio/static/js/main.adf6359b.chunk.js.map",
     "runtime-main.js": "/zaidkhan_portfolio/static/js/runtime-main.2792c41b.js",
@@ -8,15 +8,15 @@
     "static/js/2.56d41813.chunk.js": "/zaidkhan_portfolio/static/js/2.56d41813.chunk.js",
     "static/js/2.56d41813.chunk.js.map": "/zaidkhan_portfolio/static/js/2.56d41813.chunk.js.map",
     "index.html": "/zaidkhan_portfolio/index.html",
-    "precache-manifest.76ea478d326e0df5ccdde196ca89fc31.js": "/zaidkhan_portfolio/precache-manifest.76ea478d326e0df5ccdde196ca89fc31.js",
+    "precache-manifest.3824e4b46a2511f4853b2a2ba59711e3.js": "/zaidkhan_portfolio/precache-manifest.3824e4b46a2511f4853b2a2ba59711e3.js",
     "service-worker.js": "/zaidkhan_portfolio/service-worker.js",
-    "static/css/main.a7c24e8a.chunk.css.map": "/zaidkhan_portfolio/static/css/main.a7c24e8a.chunk.css.map",
+    "static/css/main.58ceae8f.chunk.css.map": "/zaidkhan_portfolio/static/css/main.58ceae8f.chunk.css.map",
     "static/js/2.56d41813.chunk.js.LICENSE": "/zaidkhan_portfolio/static/js/2.56d41813.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.2792c41b.js",
     "static/js/2.56d41813.chunk.js",
-    "static/css/main.a7c24e8a.chunk.css",
+    "static/css/main.58ceae8f.chunk.css",
     "static/js/main.adf6359b.chunk.js"
   ]
 }
