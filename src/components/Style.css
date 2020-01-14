@@ -166,12 +166,12 @@ a:hover {
 
 /* ------------------------------------------------------------------ */
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
 
     .cardcon {
         background-image: url("/card5.jpg");
         background-size: cover;
-        width: 400px;
+        width: 100%;
         height: 700px;
     }
 
@@ -196,7 +196,7 @@ a:hover {
         transform: translate(-50%, -50%);
         -ms-transform: translate(-50%, -50%);
         color: black;
-        font-size: 14px;
+        font-size: 13px;
         text-align: justify;
         word-spacing: 2px;
     
@@ -306,10 +306,151 @@ a:hover {
         font-size: 10px;
         text-align: justify;
     }
- 
     
+}
+
+
+
+
+@media screen and (max-width: 320px) {
+
+    .cardcon {
+        background-image: url("/card5.jpg");
+        background-size: cover;
+        width: 100%;
+        height: 700px;
+    }
+
+    .cardhead {
+        position: absolute;
+        top: 28%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        color: black;
+        font-size: 25px;
+        padding: 12px 12px;
+        border: none;
+        text-align: justify;
+
+    }
+
+    .cardpara {
+        position: absolute;
+        top: 47%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        color: black;
+        font-size: 15px;
+        text-align: justify;
+        word-spacing: 2px;
     
+    }
+
+    .cardpara1 {
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        color: black;
+        font-size: 13px;
+        padding: 12px 12px;
+        border: none;
+    }
+
+    .i1 {
+        position: absolute;
+        top: 70%;
+        left: 20%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+    }
+
+    .i2 {
+        position: absolute;
+        top: 70%;
+        left: 35%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+    }
+
+    .i3 {
+        position: absolute;
+        top: 70%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+    }
+
+    .i4 {
+        position: absolute;
+        top: 70%;
+        left: 65%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+    }
+
+    .i5 {
+        position: absolute;
+        top: 70%;
+        left: 80%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+    }
+
+    .cardbtn1 {
+        position: absolute;
+        top: 82%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        font-size: 20px;
+        padding: 12px 12px;
+        border: none;
+        text-align: justify;
+    }
+
+    .cardbtn2 {
+        position: absolute;
+        top: 92%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        font-size: 30px;
+        padding: 12px 12px;
+        border: none;
+        text-align: justify;
+    }
+
+    h1 {
+        font-size: 25px;
+    }
+   
+    h2 {
+        font-size: 15px;
+        text-align: justify;
+    }
     
-  
+    h3 {
+        font-size: 15px;
+        word-spacing: 0.1px;
+    }
     
+    h4 {
+        font-size: 12px;
+        text-align: justify;
+    }
+
+    p {
+        font-size: 10px;
+        text-align: justify;
+    }
+    
+    li {
+        font-size: 10px;
+        text-align: justify;
+    }
+
 }
