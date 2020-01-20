@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./Style.css";
 
 
@@ -8,10 +9,8 @@ const Card = () => {
 
 
           
-            <div className="ui fluid container cardcon">
-                {/* <div className="ui small circular  image">
-                    <img className="img1" src="cv.jpg" />
-                </div> */}
+            <div className="ui fluid container" style ={ { backgroundImage: "url('./card5.jpg')" } }>
+              
                 <h1 className="cardhead">Hi, I'm Zaid</h1>
                 <p className="cardpara">I m freelance web developer specialized in front-end and also back-end and a web development.</p>
                 <p className="cardpara1">Get in touch</p>
@@ -20,8 +19,8 @@ const Card = () => {
                 <i className="yellow big github icon i3"></i>
                 <i className="green big facebook icon i4"></i>
                 <i className="yellow big twitter icon i5"></i>
-                <a href="/portfolio"><button className="ui big green basic button cardbtn1">PORTFOLIO</button></a>
-                <a href="/myoffer"><button className="ui big yellow basic button cardbtn2">MY OFFER</button></a>
+                <Link to="/portfolio"><button className="ui big green basic button cardbtn1">PORTFOLIO</button><Link>
+                <Link to="/myoffer"><button className="ui big yellow basic button cardbtn2">MY OFFER</button></Link>
 
 
            
