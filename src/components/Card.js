@@ -1,14 +1,11 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import "./Style.css";
+import { Link } from "react-router-dom";
 
 
 const Card = () => {
     return(
         <div>
-
-
-          
             <div className="ui fluid container" style ={ { backgroundImage: "url('./card5.jpg')" } }>
               
                 <h1 className="cardhead">Hi, I'm Zaid</h1>
@@ -19,15 +16,10 @@ const Card = () => {
                 <i className="yellow big github icon i3"></i>
                 <i className="green big facebook icon i4"></i>
                 <i className="yellow big twitter icon i5"></i>
-                <Link to="/portfolio"><button className="ui big green basic button cardbtn1">PORTFOLIO</button><Link>
+                <Link to="/portfolio"><button className="ui big green basic button cardbtn1">PORTFOLIO</button></Link>
                 <Link to="/myoffer"><button className="ui big yellow basic button cardbtn2">MY OFFER</button></Link>
 
-
-           
-
             </div>
-
-
         </div>
     );
 }
