@@ -25,23 +25,23 @@ const Contact = () => {
                         <tbody>
                             <tr>
                             <td data-label="Name"><h3>E-mail:</h3></td>
-                            <td data-label="Age"><h3><i className="red mail icon"></i>khanzaid786786.kz@gmail.com</h3> </td>
+                            <td data-label="Age"><h3><i className="mail icon"></i>khanzaid786786.kz@gmail.com</h3> </td>
                             </tr>
                             <tr>
                             <td data-label="Name"><h3>LinkedIn:</h3></td>
-                            <td data-label="Age"> <h3><i className="blue linkedin icon"></i> khanbhai@linkin.in</h3></td>
+                            <td data-label="Age"> <h3><i className="linkedin icon"></i> khanzaid786786.kz@gmail.com</h3></td>
                             </tr>
                             <tr>
                             <td data-label="Name"><h3>Github:</h3></td>
-                            <td data-label="Age"> <h3><i className="black github icon"></i> khanzaid786786.kz@gmail.com</h3></td>
+                            <td data-label="Age"> <h3><i className="github icon"></i> khanzaid786786.kz@gmail.com</h3></td>
                             </tr>
                             <tr>
                             <td data-label="Name"><h3>Facebook:</h3></td>
-                            <td data-label="Age">  <h3><i className="blue facebook icon"></i> khanzaid</h3></td>
+                            <td data-label="Age">  <h3><i className="facebook icon"></i> Khan Zaid</h3></td>
                             </tr>
                             <tr>
                             <td data-label="Name"><h3>Twitter:</h3></td>
-                            <td data-label="Age"><h3><i className="blue twitter icon"></i> @khan</h3></td>
+                            <td data-label="Age"><h3><i className="twitter icon"></i> khanzaid786786.kz@gmail.com</h3></td>
                             </tr>
                       
                         </tbody>

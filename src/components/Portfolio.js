@@ -12,7 +12,7 @@ const Portfolio = () => {
                 <div className="ui segment">
                     <br/><br/>
                     <h1>PORTFOLIO</h1>
-                    <h3>See my works below. Unless explicitly stated otherwise, all their back-end and front-end parts were completely done by me.</h3>
+                    <h3>See my works below. Unless explicitly stated otherwise, all their front-end parts were completely done by me.</h3>
                 </div>
             </div>
 
@@ -25,10 +25,11 @@ const Portfolio = () => {
                     <div className="doubling stackable ui two column grid">
                         <div className="column">
                             <a>
-                            <h2>Tripsomnia</h2>
-                            <h3>Experience a lifetime adventure. Save up on your holiday</h3>
+                            <h2>1.Profit4Money Trading Website</h2>
                             </a>
-                            <h4>Tripsomnia is a web platform that allows to book and sell local tours and tourist attractions all over the world. It serves both as:</h4>
+                            <br/>
+                            <a href="https://zkhan07.github.io/forex_app/"><h4>https://zkhan07.github.io/forex_app/</h4></a>
+                            <h4>Profit4Money is a trading website. In which , we can see the rates of all comapnys shares.</h4>
                             <ul>
                                 <li>a SaaS platform for tour operators and activity providers, to manage their offers, customers, orders, and agents cooperation,</li> <br/>
                                 <li>a marketplace for end-customers to book the local tours and activities while or before the travelling.</li> <br/>
@@ -36,13 +37,13 @@ const Portfolio = () => {
                             <button className="ui red button">More Details</button>
 
                             <h4>TECHNOLOGIES</h4>
-                            <button className="ui white button">RUBY ON RAILS</button>
-                            <button className="ui white button">REACT</button>
-                            <button className="ui white button">REDUX</button>
-                            <button className="ui white button">REDID</button>
-                            <button className="ui white button">ANSIBLE</button> <br/><br/>
-                            <button className="ui white button">REACT</button>
-                            <button className="ui white button">ELASTICSEARCH</button>
+                            <button className="ui white button">HTML</button>
+                            <button className="ui white button">CSS</button><br/><br/>
+                            <button className="ui white button">JAVASCRIPT</button> 
+                            <button className="ui white button">REACT JS</button><br/><br/>
+                            <button className="ui white button">Semantic UI tool</button>
+                            <button className="ui white button">Material UI tool</button>
+
                         </div>
                         <div className="column">
                             <div className="ui image">
@@ -67,10 +68,11 @@ const Portfolio = () => {
                         </div>
                         <div className="column">
                             <a>
-                            <h2>FestBlast</h2>
-                            <h3>The best way to enjoy fests</h3>
+                            <h2>2.Adidas Shooping website</h2>
                             </a>
-                            <h4>FestBlast is an all-in-one platform that lets you easily find the best music fests, organize your trip and personalize your festival experience.</h4>
+                            <br/>
+                            <a href="https://zkhan07.github.io/adidas_app/"><h4>https://zkhan07.github.io/adidas_app/</h4></a>
+                            <h4>Adidas is a shopping website. In which , We can buy only adidas brand related products like : Adidas Shoes, Adidas tshirt and etc.</h4>
                             <ul>
                                 <li>a SaaS platform for tour operators and activity providers, to manage their offers, customers, orders, and agents cooperation,</li> <br/>
                                 <li>a marketplace for end-customers to book the local tours and activities while or before the travelling.</li> <br/>
@@ -78,13 +80,12 @@ const Portfolio = () => {
                             <button className="ui red button">More Details</button>
 
                             <h4>TECHNOLOGIES</h4>
-                            <button className="ui white button">RUBY ON RAILS</button>
-                            <button className="ui white button">REACT</button>
-                            <button className="ui white button">REDUX</button>
-                            <button className="ui white button">REDID</button>
-                            <button className="ui white button">ANSIBLE</button> <br/><br/>
-                            <button className="ui white button">REACT</button>
-                            <button className="ui white button">ELASTICSEARCH</button>
+                            <button className="ui white button">HTML</button>
+                            <button className="ui white button">CSS</button><br/><br/>
+                            <button className="ui white button">JAVASCRIPT</button> 
+                            <button className="ui white button">REACT JS</button><br/><br/>
+                            <button className="ui white button">Semantic UI tool</button>
+                            <button className="ui white button">Material UI tool</button>
                         </div>
                     </div> <br/>
                 </div>
@@ -100,31 +101,25 @@ const Portfolio = () => {
                     <div className="doubling stackable ui two column grid">
                         <div className="column">
                             <a>
-                            <h2>Recruitee</h2>
-                            <h3>A beautiful online tool to help you find, screen and hire the best talent</h3>
+                            <h2>3.Paradise Service Website</h2>
                             </a>
-                            <h4>The mobile application for Android & iOS includes almost all of the Recruitee’s web panel functionalities, like:</h4> 
+                            <br/>
+                            <a href="https://zkhan07.github.io/paradise_app/"><h4>https://zkhan07.github.io/paradise_app/</h4></a>
+                            <h4>Paradise is a service based website. In which , We can start any business website like Software Development business.</h4> 
                             <ul>
                                 <li>browsing and handling your job candidates;</li> <br/>
-                                <li>a SaaS platform for tour operators and activity providers, to manage their offers, customers, orders, and agents cooperation,</li> <br/>
-                                <li>a marketplace for end-customers to book the local tours and activities while or before the travelling.</li> <br/>
-                            </ul>
-                            <h4>Technical wrap-up:</h4>
-                            <ul>
-                                <li>A hybrid mobile application (for Android 4.0+ & iOS 6+)</li> <br/>
                                 <li>a SaaS platform for tour operators and activity providers, to manage their offers, customers, orders, and agents cooperation,</li> <br/>
                                 <li>a marketplace for end-customers to book the local tours and activities while or before the travelling.</li> <br/>
                             </ul>
                             <button className="ui red button">More Details</button>
 
                             <h4>TECHNOLOGIES</h4>
-                            <button className="ui white button">RUBY ON RAILS</button>
-                            <button className="ui white button">REACT</button>
-                            <button className="ui white button">REDUX</button>
-                            <button className="ui white button">REDID</button>
-                            <button className="ui white button">ANSIBLE</button> <br/><br/>
-                            <button className="ui white button">REACT</button>
-                            <button className="ui white button">ELASTICSEARCH</button>
+                            <button className="ui white button">HTML</button>
+                            <button className="ui white button">CSS</button><br/><br/>
+                            <button className="ui white button">JAVASCRIPT</button> 
+                            <button className="ui white button">REACT JS</button><br/><br/>
+                            <button className="ui white button">Semantic UI tool</button>
+                            <button className="ui white button">Material UI tool</button>
                         </div>
                         <div className="column center aligned">
                             <div className="ui image">
@@ -150,10 +145,11 @@ const Portfolio = () => {
                         </div>
                         <div className="column">
                             <a>
-                            <h2>Reservise</h2>
-                            <h3>Simple online reservations for sports facilities</h3>
+                            <h2>4.Dazzle<sup>AS</sup> Lighting Website</h2>
                             </a>
-                            <h4>The application allows for online reservation of courts and managing your reservations.</h4>
+                            <br/>
+                            <a href="https://zkhan07.github.io/dazzle_as/"><h4>https://zkhan07.github.io/dazzle_as/</h4></a>
+                            <h4>Dazzle<sup>AS</sup> is a Lighting Website. It is also shopping website, in which ,we can buy different types of lights of our home.</h4>
                             <ul>
                                 <li>a hybrid mobile application (for Android & iOS)</li> <br/>
                                 <li>done in Angular + Ionic Framework</li> <br/>
@@ -162,13 +158,12 @@ const Portfolio = () => {
                             <button className="ui red button">More Details</button>
 
                             <h4>TECHNOLOGIES</h4>
-                            <button className="ui white button">RUBY ON RAILS</button>
-                            <button className="ui white button">REACT</button>
-                            <button className="ui white button">REDUX</button>
-                            <button className="ui white button">REDID</button>
-                            <button className="ui white button">ANSIBLE</button> <br/><br/>
-                            <button className="ui white button">REACT</button>
-                            <button className="ui white button">ELASTICSEARCH</button>
+                            <button className="ui white button">HTML</button>
+                            <button className="ui white button">CSS</button><br/><br/>
+                            <button className="ui white button">JAVASCRIPT</button> 
+                            <button className="ui white button">REACT JS</button><br/><br/>
+                            <button className="ui white button">Semantic UI tool</button>
+                            <button className="ui white button">Material UI tool</button>
                         </div>
                     </div> <br/>
                 </div>
@@ -184,10 +179,11 @@ const Portfolio = () => {
                     <div className="doubling stackable ui two column grid">
                         <div className="column">
                             <a>
-                            <h2>Gulliver</h2>
-                            <h3>Spontaneously meet travellers and experience the city together</h3>
+                            <h2>5.OneAimSolution Service Website</h2>
                             </a>
-                            <h4>This mobile application allows you to:</h4>
+                            <br/>
+                            <a href="https://zkhan07.github.io/oneaimsolutions/"><h4>https://zkhan07.github.io/oneaimsolutions/</h4></a>
+                            <h4>OneAimSolution is a Service based website. It is used by business companys.</h4>
                             <ul>
                                 <li>easily find activities for your nearest location</li> <br/>
                                 <li>meet other travellers,</li> <br/>
@@ -197,13 +193,12 @@ const Portfolio = () => {
                             <button className="ui red button">More Details</button>
 
                             <h4>TECHNOLOGIES</h4>
-                            <button className="ui white button">RUBY ON RAILS</button>
-                            <button className="ui white button">REACT</button>
-                            <button className="ui white button">REDUX</button>
-                            <button className="ui white button">REDID</button>
-                            <button className="ui white button">ANSIBLE</button> <br/><br/>
-                            <button className="ui white button">REACT</button>
-                            <button className="ui white button">ELASTICSEARCH</button>
+                            <button className="ui white button">HTML</button>
+                            <button className="ui white button">CSS</button><br/><br/>
+                            <button className="ui white button">JAVASCRIPT</button> 
+                            <button className="ui white button">REACT JS</button><br/><br/>
+                            <button className="ui white button">Semantic UI tool</button>
+                            <button className="ui white button">Material UI tool</button>
                         </div>
                         <div className="column">
                             <div className="ui image">
@@ -215,87 +210,7 @@ const Portfolio = () => {
             </div>
 
            
-
-              {/* page6 */}
-              <div className="ui container">
-                <div className="ui segment">
-                 
-                    <br/><br/>
-                    <div className="doubling stackable ui two column grid">
-                        <div className="column">
-                            <div className="ui image">
-                                <img src="p6.png" />
-                            </div>
-                        </div>
-                        <div className="column">
-                            <a>
-                            <h2>GorillaFM</h2>
-                            <h3>An interactive online radio station</h3>
-                            </a>
-                            <h4>Super interactive, one-page website for an online radio station. Besides listening to the music, you can:</h4>
-                            <ul>
-                                <li>browse radio’s tracks database; and request songs online;</li> <br/>
-                                <li>a SaaS platform for tour operators and activity providers, to manage their offers, customers, orders, and agents cooperation,</li> <br/>
-                                <li>a marketplace for end-customers to book the local tours and activities while or before the travelling.</li> <br/>
-                            </ul>
-                            <button className="ui red button">More Details</button>
-
-                            <h4>TECHNOLOGIES</h4>
-                            <button className="ui white button">RUBY ON RAILS</button>
-                            <button className="ui white button">REACT</button>
-                            <button className="ui white button">REDUX</button>
-                            <button className="ui white button">REDID</button>
-                            <button className="ui white button">ANSIBLE</button> <br/><br/>
-                            <button className="ui white button">REACT</button>
-                            <button className="ui white button">ELASTICSEARCH</button>
-                        </div>
-                    </div> <br/>
-                </div>
-            </div>
-
-
-              {/* page7 */}
-              <div className="ui container">
-                <div className="ui segment">
-                 
-                    <br/><br/>
-                    <div className="doubling stackable ui two column grid">
-                        <div className="column">
-                            <a>
-                            <h2>TerazZaraz.pl</h2>
-                            <h3>Job offers and your friends in just one place</h3>
-                            </a>
-                            <h4>A popular Polish job aggregator with many social features, like:</h4> 
-                            <ul>
-                                <li>invite friends;</li> <br/>
-                                <li>write private messages;</li> <br/>
-                                <li>recommend job offers;</li> <br/>
-                                <li>create your own job offers;</li> <br/>
-                                <li>write private messages;</li> <br/>
-                            </ul>
-                        
-                            <button className="ui red button">More Details</button>
-
-                            <h4>TECHNOLOGIES</h4>
-                            <button className="ui white button">RUBY ON RAILS</button>
-                            <button className="ui white button">REACT</button>
-                            <button className="ui white button">REDUX</button>
-                            <button className="ui white button">REDID</button>
-                            <button className="ui white button">ANSIBLE</button> <br/><br/>
-                            <button className="ui white button">REACT</button>
-                            <button className="ui white button">ELASTICSEARCH</button>
-                        </div>
-                        <div className="column">
-                            <div className="ui image">
-                                <img src="p7.png" />
-                            </div>
-                        </div>
-                    </div> <br/>
-                </div>
-            </div>
-
             <br/><br/>
-
 
         </div>
     );

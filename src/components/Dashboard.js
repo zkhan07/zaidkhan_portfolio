@@ -20,7 +20,7 @@ import MailIcon from '@material-ui/icons/Mail';
 import MessageIcon from '@material-ui/icons/Message';
 import Container from '@material-ui/core/Container';
 import { Link } from "react-router-dom";
-import Card from "./Card";
+import Image from "./Image";
 
 import "./Style.css";
 
@@ -247,12 +247,9 @@ export default function PersistentDrawerLeft() {
         <div className={classes.appBarSpacer} />
         <Container maxWidth="lg" className={classes.container}>
 
-        <Card />
-
-
-          
-       
+    
         </Container>
+        <Image />
       </main>
     </div>
   );

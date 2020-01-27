@@ -14,9 +14,9 @@ const Offer = () => {
                     <br/><br/>      
                     <h1>MY OFFER</h1>
                     <div className="ui divider"></div>
-                    <h4>A full-stack web developer with over 14 years of experience.</h4>
-                    <p>I have maintained, developed and launched multiple projects from scratch, carrying the development of its' back-end and front-end codebases.</p> 
-                    <p>My current toolset includes Elixir Language & Phoenix Framework, Ruby & Ruby on Rails, React, Redux, Angular, TypeScript, Docker and all the other various frameworks, libraries and technologies related to them.</p> <br/>
+                    <h4>A front-end web developer with over 7 months of experience.</h4>
+                    <p>I have maintained, developed and launched multiple projects from scratch, carrying the development of front-end codebases.</p> 
+                    <p>My current toolset includes Html, css , JavaScript language & React Js Framework, Ruby & React, Redux, semantic ui, material ui, TypeScript, Docker and all the other various frameworks, libraries and technologies related to them.</p> <br/>
                     <h4>I can help you with all the sides of your project:</h4>
                     <ul>
                         <li>verifying good UI/UX design,</li> <br/>
@@ -36,7 +36,7 @@ const Offer = () => {
                 <div className="ui segment">    <br/><br/>
                     <h2><i className="paste icon"></i>FRONT-END WEB DEVELOPMENT</h2>
                     <div className="ui divider"></div>
-                    <h4>I specialise in applications written in both React and Angular. Recently I became also a huge fan of one-way data flow and Redux-like architecture and also typed languages, e.g. TypeScript.</h4>
+                    <h4>I specialise in applications written in React Js. Recently I became also a huge fan of one-way data flow and Redux-like architecture and also typed languages, e.g. TypeScript.</h4>
                     <h4>My current experience and skills in front-end includes:</h4>
                     <h4>I can help you with all the sides of your project:</h4>
                     <ul>
@@ -50,25 +50,25 @@ const Offer = () => {
                     <div className="doubling stackable ui four column grid center aligned">
                         <div className="column">
                             <div className="ui red segment">
-                                <h1>14</h1>
-                                <h3>single page applications launched in Angular or React</h3>
+                                <h1>5</h1>
+                                <h3>The single page applications is launched in React</h3>
                             </div>
                         </div>
                         <div className="column">
                             <div className="ui red segment">
-                                <h1>09</h1>
+                                <h1>00</h1>
                                 <h3>talks given about front-end development of the environment</h3>
                             </div>
                         </div>
                         <div className="column">
                             <div className="ui red segment">
-                                <h1>24</h1>
+                                <h1>00</h1>
                                 <h3>co-founded ng-poznan, Poznan Angular meetup group</h3>
                             </div>
                         </div>
                         <div className="column">
                             <div className="ui red segment">
-                                <h1>105</h1>
+                                <h1>00</h1>
                                 <h3>talks given about front-end development for the project</h3>
                             </div>
                         </div>
@@ -82,7 +82,7 @@ const Offer = () => {
 
 
               {/* Page3 */}
-            <div className="ui container">
+            {/* <div className="ui container">
                 <div className="ui segment">    <br/><br/>
                     <h2><i className="tag icon"></i>BACK-END WEB DEVELOPMENT</h2>
                     <div className="ui divider"></div>
@@ -100,12 +100,12 @@ const Offer = () => {
                         <li>leading, launching and monitoring the project.</li> <br/>
                     </ul>
                 </div>
-            </div>
+            </div> */}
 
 
 
           {/* Page4 */}
-          <div className="ui container">
+          {/* <div className="ui container">
                 <div className="ui segment">    <br/><br/>
                     <h2><i className="paste icon"></i>WHAT ABOUT DEV-OPS, DESIGN, UI, PROJECT <br/> LEADERSHIP, TEAM MENTORSHIP ?</h2>
                     <div className="ui divider"></div>
@@ -125,7 +125,7 @@ const Offer = () => {
                     <p>If your initial thought is that I can’t be the best in everything, it's okay. Send the design job to someone else, and I will take care of all the code development, or whatever other role you see me best in.</p> <br/>
                     <p>In cases when you already have an existing team, but you would still use some help, contact me as well. I’ll fit in very quickly, I promise.</p> <br/>
                 </div>
-            </div>
+            </div> */}
 
 
 
