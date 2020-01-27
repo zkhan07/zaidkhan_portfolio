@@ -47,7 +47,7 @@ const Portfolio = () => {
                         </div>
                         <div className="column">
                             <div className="ui image">
-                                <img src="p1.png" />
+                                <img src="port1.png" />
                             </div>
                         </div>
                     </div> <br/>
@@ -63,7 +63,7 @@ const Portfolio = () => {
                     <div className="doubling stackable ui two column grid">
                         <div className="column">
                             <div className="ui image">
-                                <img src="p2.png" />
+                                <img src="port2.png" />
                             </div>
                         </div>
                         <div className="column">
@@ -123,7 +123,7 @@ const Portfolio = () => {
                         </div>
                         <div className="column center aligned">
                             <div className="ui image">
-                                <img src="p3.png" />
+                                <img src="port3.png" />
                             </div>
                         </div>
                     </div> <br/>
@@ -140,7 +140,7 @@ const Portfolio = () => {
                     <div className="doubling stackable ui two column grid">
                         <div className="column center aligned">
                             <div className="ui image">
-                                <img src="p4.png" />
+                                <img src="port4.png" />
                             </div>
                         </div>
                         <div className="column">
@@ -202,7 +202,7 @@ const Portfolio = () => {
                         </div>
                         <div className="column">
                             <div className="ui image">
-                                <img src="p5.png" />
+                                <img src="port5.png" />
                             </div>
                         </div>
                     </div> <br/>
